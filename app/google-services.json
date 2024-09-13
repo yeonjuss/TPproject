@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "561854816038",
+    "project_id": "tpquicksearchyj",
+    "storage_bucket": "tpquicksearchyj.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:561854816038:android:f78b9be631102333d86be7",
+        "android_client_info": {
+          "package_name": "com.syj2024.tpproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyStCWDYGS_5I7zYgR_93kooNJ87iDT_0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
