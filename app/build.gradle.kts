@@ -57,4 +57,8 @@ dependencies {
     androidTestImplementation(libs.androidx.espresso.core)
     implementation(platform("com.google.firebase:firebase-bom:33.2.0"))
     implementation("com.google.firebase:firebase-firestore-ktx")
+    implementation("com.kakao.sdk:v2-user:2.20.6")  // 카카오 로그인 API 모듈
+    implementation("com.navercorp.nid:oauth:5.10.0") // 네이버 로그인
+
+    implementation("com.naver.maps:map-sdk:3.19.1")   // 네이버 지도 SDK
 }
